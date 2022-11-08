@@ -1,0 +1,24 @@
+{
+  "name": "aoc21",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "adventofcode.com 2021",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undeaDD/AoC21.git"
+  },
+  "keywords": [
+    "aoc",
+    "21"
+  ],
+  "author": "undeaD_D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undeaDD/AoC21/issues"
+  },
+  "homepage": "https://github.com/undeaDD/AoC21#readme"
+}
